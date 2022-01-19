@@ -1,0 +1,5 @@
+src/test
+.gradle
+.idea
+build
+out

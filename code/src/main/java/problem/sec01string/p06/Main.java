@@ -1,4 +1,4 @@
-package problem.sec01.p06;
+package problem.sec01string.p06;
 
 import java.util.*;
 

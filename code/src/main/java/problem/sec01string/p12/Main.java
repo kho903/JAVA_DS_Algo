@@ -1,4 +1,4 @@
-package problem.sec01.p12;
+package problem.sec01string.p12;
 
 import java.util.Scanner;
 
